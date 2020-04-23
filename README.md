@@ -1,1 +1,3 @@
-# continuite-pedagogique
+# Continuité Pédagogique - Maîtresse Alison
+
+http://maitresse-alison.ddns.net/
