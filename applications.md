@@ -2,6 +2,8 @@
 title: "Applications"
 ---
 
+[Retour]()
+
 # Applications
 
 ### MS - Compter les syllabes
