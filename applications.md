@@ -2,7 +2,7 @@
 title: "Applications"
 ---
 
-# Applications
+## Applications
 
 ### MS - Compter les syllabes
 <iframe src="https://learningapps.org/watch?v=pm0vki8kt20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
