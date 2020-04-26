@@ -2,5 +2,5 @@
 title: "Ecriture GS"
 ---
 
-# Ecriture GS
+## Ecriture GS
 
