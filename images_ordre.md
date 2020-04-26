@@ -2,7 +2,7 @@
 title: "Images à remettre dans l'ordre"
 ---
 
-# Images à remettre dans l'ordre
+## Images à remettre dans l'ordre
 
 ### Images séquentielles (4 images) -  « Le pécheur »
 <iframe src="https://learningapps.org/watch?v=pmfe64wna20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
