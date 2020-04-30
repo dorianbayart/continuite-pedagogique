@@ -7,3 +7,6 @@
 
 ### [Applications](applications.md)
 
+### [Reconstituer son prénom](reconstituer_prenom.md)
+
+### [Numération](numeration.md)
