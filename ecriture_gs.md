@@ -41,10 +41,12 @@ _Ecriture en attaché de la lettre O._
 
 
 ### GS - écriture A (8)
+_Ecriture en attaché de la lettre A._
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9513dEiibaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### GS - écriture D (9)
+_Ecriture en attaché de la lettre D._
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3RQK1gJEjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
