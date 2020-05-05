@@ -61,5 +61,8 @@ title: "Reconstituer son prénom"
 ### Sidra
 <iframe src="https://learningapps.org/watch?v=pnuwxm7gc20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+### Gabriel
+<iframe src="https://learningapps.org/watch?v=pda8btawt20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
 
 
