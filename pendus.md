@@ -5,10 +5,6 @@ title: "Pendus"
 ## Pendus
 
 
-### Ecole
-<iframe src="https://learningapps.org/watch?v=pynfibgen20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
-
 ### Prénoms MS
 <iframe src="https://learningapps.org/watch?v=pwj5wy6gc20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
