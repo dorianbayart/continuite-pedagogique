@@ -21,3 +21,6 @@ title: "Ecriture GS - Mots/phrases"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dNOkiB_tiFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### GS - écriture "Le lait et"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-O1qGoh8jbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
