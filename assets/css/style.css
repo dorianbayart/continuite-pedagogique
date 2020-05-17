@@ -33,6 +33,6 @@ iframe {
 
 @media screen and (max-width: 640px) {
   h3, h4, h5 {
-    margin: 1em -12px;
+    /*margin: 1em -12px;*/
   }
 }
