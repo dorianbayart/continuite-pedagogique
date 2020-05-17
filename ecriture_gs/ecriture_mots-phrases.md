@@ -24,3 +24,19 @@ title: "Ecriture GS - Mots/phrases"
 ### GS - écriture "Le lait et"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-O1qGoh8jbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### GS - écriture "dada"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F5fa3JMNfBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "La date"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ConV9wdLg1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "La dictée"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDhp-z9dBys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "Le lac"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q15HdD_U_hY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
