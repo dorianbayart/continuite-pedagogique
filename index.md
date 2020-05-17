@@ -10,6 +10,9 @@
 ### [Phonologie](phonologie.md)
 
 ### [Reconstituer son prénom](reconstituer_prenom.md)
+### [Prénoms MS](reconstituer_prenom/prenoms_ms.md)
+### [Prénoms GS](reconstituer_prenom/prenoms_gs.md)
+### [Marie](reconstituer_prenom/marie.md)
 
 ### [Numération](numeration.md)
 
