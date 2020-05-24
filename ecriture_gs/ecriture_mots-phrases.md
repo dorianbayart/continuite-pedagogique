@@ -40,3 +40,15 @@ title: "Ecriture GS - Mots/phrases"
 ### GS - écriture "Le lac"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q15HdD_U_hY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### GS - écriture "Me Mi Ma"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXM4J_7GiZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "Un Une"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EmoMly9tV6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "Ni Nu No"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kbvoIctuNHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
