@@ -8,6 +8,8 @@
 ### [Images à remettre dans l'ordre](images_ordre.md)
 
 ### [Phonologie](phonologie.md)
+#### [Phonologie MS](phonologie/phonologie_ms.md)
+#### [Phonologie GS](phonologie/phonologie_gs.md)
 
 ### [Reconstituer son prénom](reconstituer_prenom.md)
 #### [Prénoms MS](reconstituer_prenom/prenoms_ms.md)
