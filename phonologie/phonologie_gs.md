@@ -25,3 +25,15 @@ title: "Phonologie - GS"
 <iframe src="https://learningapps.org/watch?v=pop30042c20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
+### Son R-Robinet Alphas
+<iframe src="https://learningapps.org/watch?v=pwmyf8ofc20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+### Son N-Nez Alphas
+<iframe src="https://learningapps.org/watch?v=pg77zezd220" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+### Son S-Serpent Alphas
+<iframe src="https://learningapps.org/watch?v=pmgw3a3ak20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
