@@ -5,6 +5,10 @@
 #### [Ecriture GS - Lettres](ecriture_gs/ecriture_lettres.md)
 #### [Ecriture GS - Mots/Phrases](ecriture_gs/ecriture_mots-phrases.md)
 
+### [Ecriture MS](ecriture_ms.md)
+#### [Ecriture MS - Lettres](ecriture_ms/ecriture_lettres.md)
+#### [Ecriture MS - Paires Lettres](ecriture_ms/ecriture_paires-lettres.md)
+
 ### [Images à remettre dans l'ordre](images_ordre.md)
 
 ### [Phonologie](phonologie.md)
