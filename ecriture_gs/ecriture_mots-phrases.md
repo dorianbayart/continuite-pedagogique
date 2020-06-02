@@ -52,3 +52,24 @@ title: "Ecriture GS - Mots/phrases"
 ### GS - écriture "Ni Nu No"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kbvoIctuNHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### GS - écriture "La lune"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZYz9AYbvV6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "Midi"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f0ED9UkkvHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "Un ami"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xZ5FWzSTbWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "Une minute"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FqnafKv4QS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "Une nuit"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kllfXWEhmr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
