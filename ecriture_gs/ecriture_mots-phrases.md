@@ -73,3 +73,7 @@ title: "Ecriture GS - Mots/phrases"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kllfXWEhmr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### GS - écriture "Re Ri Ru Ro Ra"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMv3TWoRpOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
