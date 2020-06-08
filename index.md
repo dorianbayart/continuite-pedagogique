@@ -4,6 +4,7 @@
 ### [Ecriture GS](ecriture_gs.md)
 #### [Ecriture GS - Lettres](ecriture_gs/ecriture_lettres.md)
 #### [Ecriture GS - Mots/Phrases](ecriture_gs/ecriture_mots-phrases.md)
+#### [Ecriture GS - Paires Lettres](ecriture_gs/ecriture_paires-lettres.md)
 
 ### [Ecriture MS](ecriture_ms.md)
 #### [Ecriture MS - Lettres](ecriture_ms/ecriture_lettres.md)
