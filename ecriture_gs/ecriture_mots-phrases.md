@@ -77,3 +77,31 @@ title: "Ecriture GS - Mots/phrases"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rMv3TWoRpOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### GS - écriture "Elle rit"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQNnOtrj8U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "La radio"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMSQsGW1pJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "La rime"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/is6RfxqADiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "La rue"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NkidD0l1Otc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "Le rat trotte"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OcqPSp7xqLY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "Se Su Si"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m6PQdF-kdGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### GS - écriture "Un rat"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8A3xUmNOV1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
