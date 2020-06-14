@@ -37,3 +37,15 @@ title: "Phonologie - GS"
 <iframe src="https://learningapps.org/watch?v=pmgw3a3ak20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
+### Son T-Toupie  Alphas
+<iframe src="https://learningapps.org/watch?v=pjg425wut20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+### Son P-Perroquet Alphas
+<iframe src="https://learningapps.org/watch?v=p1peen0bt20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+### Son D-Dame Alphas
+<iframe src="https://learningapps.org/watch?v=pjpust04a20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
