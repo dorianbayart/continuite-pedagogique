@@ -58,3 +58,7 @@ _Ecriture en attaché des lettres N et M._
 ### GS - écriture R (11)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4RzWDgn6Nk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### GS - écriture S (12)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vm3CzdViFZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
