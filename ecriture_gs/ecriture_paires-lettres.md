@@ -17,3 +17,7 @@ title: "Ecriture GS - Paires Lettres"
 <iframe src="https://learningapps.org/watch?v=pkbwortt320" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
+### Paires Lettres capitales-cursives 4
+<iframe src="https://learningapps.org/watch?v=pupemfipt20" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
